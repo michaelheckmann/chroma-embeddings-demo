@@ -7,7 +7,7 @@ This is a demo of the [Chroma Embeddings Database](https://docs.trychroma.com) A
 ### Clone the repo
 
 ```bash
-git clone
+git clone git@github.com:michaelheckmann/chroma-embeddings-demo.git
 ```
 
 ### Clone Chroma

@@ -51,7 +51,7 @@ function cleanValue(value) {
 }
 
 /**
- *
+ * Slugifies a value
  * @param {string} value
  * @returns {string} The slugified value
  */
